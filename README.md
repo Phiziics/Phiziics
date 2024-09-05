@@ -1,4 +1,4 @@
-👋 Hi, I'm @Phiziics.
+👋 Hi, I'm Tevin (@Phiziics)
 👀 I am dedicated to continuous learning and professional development, with a focus on Data Science and its impact on business growth and innovation.
 
 🌱 Currently advancing my expertise in Data Science, Machine Learning, and Artificial Intelligence to stay at the forefront of industry trends.
