@@ -5,7 +5,7 @@
 
 💼 I am always open to collaborating on transformative projects that deliver meaningful, data-driven outcomes.
 
-📫 Feel free to connect with me on LinkedIn at Tevin S. Wright or reach out via email at tevinswright@gmail.com.
+📫 Feel free to connect with me on LinkedIn at www.linkedin.com/in/tevinswright or reach out via email at tevinswright@gmail.com.
 
 😄 Pronouns: He/Him
 
