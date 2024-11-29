@@ -7,8 +7,9 @@
 
 📫 Feel free to connect with me on LinkedIn at www.linkedin.com/in/tevinswright or reach out via email at tevinswright@gmail.com.
 
-⚡ Fun fact: I have a strong interest in leveraging data to drive strategic decision-making, and I enjoy drawing insights from patterns, whether in business or in my hobbies like investing and writing.
+⚡ Strengths: I have a strong interest in leveraging data to drive strategic decision-making, and I enjoy drawing insights from patterns, whether in business or in my hobbies like investing and writing.
 
+I am a lover of Data, I love challenges and I enjoy my country's Oxtail and rice and peas.
 <!---
 Phiziics/Phiziics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
