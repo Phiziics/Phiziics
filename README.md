@@ -7,8 +7,6 @@
 
 📫 Feel free to connect with me on LinkedIn at www.linkedin.com/in/tevinswright or reach out via email at tevinswright@gmail.com.
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I have a strong interest in leveraging data to drive strategic decision-making, and I enjoy drawing insights from patterns, whether in business or in my hobbies like investing and writing.
 
 <!---
