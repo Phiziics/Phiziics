@@ -1,7 +1,7 @@
 # Hi there, I'm Tevin – Welcome to my profile! 👋  
 
 ## About Me  
-I am a Data Scientist with years of experience using Python and SQL to uncover actionable insights and solve complex problems. My work spans **17 projects** leveraging statistical analysis, machine learning algorithms, and generative AI (GenAI), including **large language models (LLMs)** and **fine-tuning LLMs** to deliver impactful solutions.  
+I am a Data Scientist with years of experience using Python and SQL to uncover actionable insights and solve complex problems. My work spans **20 projects** leveraging statistical analysis, machine learning algorithms, and generative AI (GenAI), including **large language models (LLMs)** and **fine-tuning LLMs** to deliver impactful solutions.  
 
 I recently completed the **Data Science Bootcamp** through **[TripleTen](https://tripleten.com/)** and am actively seeking opportunities to leverage my skills, expand my expertise, and contribute to innovative data-driven projects.  
 
