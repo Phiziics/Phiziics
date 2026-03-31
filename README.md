@@ -1,25 +1,30 @@
 # Hi there, I am Tevin – Welcome to my profile  
 
 ## About Me  
-I am a Data Scientist with several years of hands on experience using Python and SQL to solve real world business problems through data. I have delivered over **20 end to end projects** spanning statistical analysis, machine learning, time series forecasting, natural language processing, and **Generative AI**, including work with **large language models, embeddings, and fine tuning**.
+I am a Data Scientist with several years of hands on experience using Python and SQL to solve real world business problems through data. I have delivered over **20 end to end projects** spanning statistical analysis, machine learning, time series forecasting, natural language processing, and **Generative AI**, including work with **large language models, embeddings, fine tuning, and AI powered systems**.
+
+I have experience building **AI driven applications, APIs, and agent based systems**, leveraging tools such as FastAPI, LLMs, and containerized deployments.  
 
 I recently completed a rigorous **Data Science Bootcamp** through **[TripleTen](https://tripleten.com/)** and have applied my skills across internships and industry simulations with organizations such as JPMorgan Chase, British Airways, and Cuetessa. I am actively seeking opportunities to contribute to high impact data driven and AI focused teams.
 
 ---
 
 ## Skills and Expertise  
-I bring strong proficiency across analytics, machine learning, and AI tooling:
+I bring strong proficiency across analytics, machine learning, and AI engineering:
 
 - **Python**: Pandas, NumPy, SciPy  
 - **Data Visualization**: Matplotlib, Seaborn, exploratory data analysis  
 - **Machine Learning**: Scikit Learn, feature engineering, model validation, hyperparameter tuning, forecasting  
 - **Generative AI and NLP**: Large Language Models, fine tuning, embeddings, Transformers, Hugging Face, BERT, RoBERTa, DistilBERT, Sentence Transformers, spaCy, NLTK, TfidfVectorizer, PyTorch  
+- **LLM and AI Systems**: ChatGPT API, Claude models, prompt engineering, retrieval augmented generation, evaluation of LLM outputs  
+- **AI Engineering and Agents**: AI agents, multi step reasoning systems, workflow automation, LangChain, agent orchestration  
 - **Time Series Analysis**: Seasonal decomposition, TimeSeriesSplit, volatility and trend analysis, commodity price forecasting  
 - **Unsupervised Learning**: K Means, Isolation Forest, clustering techniques  
 - **Computer Vision**: TensorFlow, Keras  
 - **Audio Feature Extraction**: Librosa  
+- **APIs and Backend Development**: FastAPI, REST API design, model serving, inference pipelines  
+- **Cloud and Deployment**: AWS S3, EC2, SageMaker, Docker, containerization, model deployment  
 - **Databases**: PostgreSQL  
-- **Cloud and Deployment**: AWS S3, EC2, SageMaker, Docker, FastAPI  
 
 ---
 
@@ -37,12 +42,12 @@ I bring complementary experience in analytics, operations, and technical problem
 ---
 
 ## Languages and Tools  
-**Python** | **SQL** | **PostgreSQL** | **Pandas** | **NumPy** | **Scikit Learn** | **TensorFlow** | **PyTorch** | **AWS** | **Docker** | **FastAPI** | **Tableau** | **Power BI** | **Excel** | **Git** | **Jupyter**
+**Python** | **SQL** | **PostgreSQL** | **Pandas** | **NumPy** | **Scikit Learn** | **TensorFlow** | **PyTorch** | **FastAPI** | **Docker** | **AWS** | **LLMs** | **ChatGPT** | **Claude** | **LangChain** | **Tableau** | **Power BI** | **Excel** | **Git** | **Jupyter**
 
 ---
 
 ## Let’s Connect  
-I am passionate about solving meaningful problems with data and collaborating with driven teams and professionals.
+I am passionate about solving meaningful problems with data and building intelligent AI systems.
 
 - **Email**: tevinswright@gmail.com  
 - **Phone**: +1 404 437 4564  
