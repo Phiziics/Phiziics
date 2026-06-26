@@ -1,4 +1,4 @@
-# Hi there, I am Tevin – Welcome to my profile  
+# Hi there – Welcome to my profile  
 
 ## About Me  
 I am a Data Scientist with several years of hands on experience using Python and SQL to solve real world business problems through data. I have delivered over **20 end to end projects** spanning statistical analysis, machine learning, time series forecasting, natural language processing, and **Generative AI**, including work with **large language models, embeddings, fine tuning, and AI powered systems**.
@@ -51,5 +51,5 @@ I am passionate about solving meaningful problems with data and building intelli
 
 - **Email**: tevinswright@gmail.com  
 - **Phone**: +1 404 437 4564  
-- **LinkedIn**: https://www.linkedin.com/in/tevinswright  
+- [**LinkedIn**](https://www.linkedin.com/in/tevinswright) 
 - **GitHub**: https://github.com/Phiziics
