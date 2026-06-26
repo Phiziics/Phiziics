@@ -49,7 +49,7 @@ I bring complementary experience in analytics, operations, and technical problem
 ## Let’s Connect  
 I am passionate about solving meaningful problems with data and building intelligent AI systems.
 
-- **Email**: tevinswright@gmail.com  
-- **Phone**: +1 404 437 4564  
+- [**Email**](tevinswright@gmail.com)  
+- [**Phone**](+14044374564)  
 - [**LinkedIn**](https://www.linkedin.com/in/tevinswright) 
 - **GitHub**: https://github.com/Phiziics
