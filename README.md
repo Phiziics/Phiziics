@@ -125,14 +125,34 @@ Worked on machine learning approaches for analyzing and predicting characteristi
 - Compared traditional machine learning and deep learning approaches
 - Used model evaluation and feature importance analysis to identify the strongest drivers of perceived audio energy
 
-### Jamaica Defence Force | IT Technician
+## Professional Experience
 
-Provided technical and infrastructure support in a mission focused operational environment.
+### JPMorgan Chase & Co. | Quantitative Research Experience
+**Via The Forage | January 2026**
 
-- Resolved more than **200 technical support requests per month**
-- Supported computer systems, users, networking, and technical troubleshooting
-- Contributed to system and network optimization initiatives
-- Developed strong experience working in structured, security conscious technical environments
+- Analyzed **10,000 borrower records** across six credit risk variables and built a Python workflow to estimate **probability of default and expected loan loss** using a 10% recovery rate assumption
+- Developed a generalized **FICO score bucketing** method that transformed continuous credit scores into model ready risk ratings for portfolio segmentation and credit risk decision making
+
+### British Airways | Data Scientist, Customer and Pricing Analytics
+**Via The Forage | September 2025 to October 2025**
+
+- Analyzed approximately **50,000 booking records** to identify behavioral patterns and customer intent signals associated with booking completion
+- Built a predictive modeling workflow in Python to estimate booking likelihood and identify the strongest purchase behavior drivers
+- Segmented travelers into **4 actionable customer groups** to support targeted marketing, personalization, and conversion recommendations
+
+### Cuetessa Inc. | Data Scientist Intern
+**January 2025 to March 2025**
+
+- Processed and analyzed large scale datasets to identify anomalies, operational trends, and performance issues across business workflows
+- Built **ETL style data preparation pipelines** to clean, transform, and structure raw data for reporting, analysis, and downstream modeling
+- Collaborated with cross functional teams to automate reporting, reduce manual analysis effort, and deliver stakeholder ready insights
+
+### TripleTen | Data Scientist
+**December 2023 to September 2024**
+
+- Built end to end machine learning projects using **Random Forest, XGBoost, regression, clustering, classification, and forecasting**
+- Performed complete analytics workflows covering **EDA, data cleaning, feature engineering, model training, validation, evaluation, visualization, and deployment**
+- Created dashboards and visualizations that communicated KPIs, model findings, trend analysis, and recommendations to non technical stakeholders
 
 ## What I Like Building
 
