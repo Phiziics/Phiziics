@@ -6,7 +6,7 @@ I am a Data Scientist focused on turning real world business problems into pract
 
 My work spans the full machine learning lifecycle:
 
-**Collect Data → Preprocess → Engineer Features → Train → Validate → Deploy → Monitor → Improve**
+**Collect Data → Preprocess → Engineer Features → Train → Validate → Deploy → (currently working on these) → Monitor → Improve**
 
 I have completed more than **20 data science and machine learning projects** across predictive modeling, experimentation, time series forecasting, NLP, computer vision, Generative AI, and production machine learning.
 
